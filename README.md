@@ -8,5 +8,5 @@ Proper use of CSS techniques like Flexbox, media queries, and the box model.
 A responsive navigation bar and well-styled contact form.
 
 ## ⚙ Installation
-click here()
+click here(https://github.com/Rakesh8235/personal-portfolio)
 [roadmap.sh url] (https://roadmap.sh/projects/portfolio-website)
